@@ -34,6 +34,7 @@
 Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
 
 ## Задание 1
+###Вывод Hello World на python и Unity
 ![Screenshot_3](https://user-images.githubusercontent.com/49115035/192161460-8e35164d-62c8-4e64-99e5-0f0fcef79141.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/49115035/192161463-d7ac842a-20f2-42b6-ab0c-c88cebf52f80.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/49115035/192161464-2196a84c-3e5f-456d-bef2-6268893ab6b1.png)
@@ -41,8 +42,9 @@
 
 
 ## Задание 2
-Ссылка на ipynb [файл](https://github.com/VenchasS/DA-in-GameDev-lab1/blob/main/lab1.ipynb)
-
+### Выполнение раздела "ход работы"
+Ссылка на ipynb [файл](https://github.com/VenchasS/DA-in-GameDev-lab1/blob/main/lab1.ipynb) из Jupyter notebook
+Prediction с кол-вом итераций увеличивает свою точность.
 ![Screenshot_4](https://user-images.githubusercontent.com/49115035/192161567-5b4e01e2-2d1f-43e9-9c73-751a77d81b19.png)
 ![Screenshot_5](https://user-images.githubusercontent.com/49115035/192161572-0a69bc3f-7e3f-4b77-9eb6-5dc9adf7aeda.png)
 ![Screenshot_6](https://user-images.githubusercontent.com/49115035/192161573-016cf493-5d49-421d-9ff6-043a08380b92.png)
@@ -55,9 +57,9 @@
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
 ### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
 
+
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
 
 | Plugin | README |
 | ------ | ------ |
