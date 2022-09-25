@@ -42,7 +42,9 @@
 
 
 ## Задание 2
+
 ### Выполнение раздела "ход работы"
+
 Ссылка на ipynb [файл](https://github.com/VenchasS/DA-in-GameDev-lab1/blob/main/lab1.ipynb) из Jupyter notebook
 Prediction с кол-вом итераций увеличивает свою точность.
 ![Screenshot_4](https://user-images.githubusercontent.com/49115035/192161567-5b4e01e2-2d1f-43e9-9c73-751a77d81b19.png)
