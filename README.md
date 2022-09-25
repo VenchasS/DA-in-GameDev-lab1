@@ -42,6 +42,7 @@
 
 
 ## Задание 2
+Ссылка на ipynb [файл](https://github.com/VenchasS/DA-in-GameDev-lab1/blob/main/lab1.ipynb)
 ![Screenshot_4](https://user-images.githubusercontent.com/49115035/192161567-5b4e01e2-2d1f-43e9-9c73-751a77d81b19.png)
 ![Screenshot_5](https://user-images.githubusercontent.com/49115035/192161572-0a69bc3f-7e3f-4b77-9eb6-5dc9adf7aeda.png)
 ![Screenshot_6](https://user-images.githubusercontent.com/49115035/192161573-016cf493-5d49-421d-9ff6-043a08380b92.png)
